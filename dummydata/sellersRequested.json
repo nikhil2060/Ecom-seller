@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "businessName": "Tech Store",
+    "ownerName": "John Doe",
+    "email": "john@techstore.com",
+    "phone": "123-456-7890",
+    "status": "pending",
+    "address": "123 Main St, City",
+    "registrationDate": "2024-03-15",
+    "description": "Electronics and gadgets store",
+    "documents": ["business_license.pdf", "id_proof.pdf"]
+  },
+  {
+    "id": 2,
+    "businessName": "Green Garden",
+    "ownerName": "Sarah Smith",
+    "email": "sarah@greengarden.com",
+    "phone": "234-567-8901",
+    "status": "pending",
+    "address": "456 Park Ave, Town",
+    "registrationDate": "2024-03-16",
+    "description": "Organic nursery and garden supplies",
+    "documents": ["business_permit.pdf", "tax_cert.pdf"]
+  },
+  {
+    "id": 3,
+    "businessName": "Cafe Corner",
+    "ownerName": "Mike Johnson",
+    "email": "mike@cafecorner.com",
+    "phone": "345-678-9012",
+    "status": "pending",
+    "address": "789 Coffee St, Village",
+    "registrationDate": "2024-03-17",
+    "description": "Specialty coffee shop and bakery",
+    "documents": ["food_license.pdf", "health_cert.pdf"]
+  },
+  {
+    "id": 4,
+    "businessName": "Fitness Plus",
+    "ownerName": "Emma Wilson",
+    "email": "emma@fitnessplus.com",
+    "phone": "456-789-0123",
+    "status": "pending",
+    "address": "321 Gym Road, Metro",
+    "registrationDate": "2024-03-18",
+    "description": "Full-service fitness center",
+    "documents": ["facility_permit.pdf", "insurance_doc.pdf"]
+  },
+  {
+    "id": 5,
+    "businessName": "Auto Care",
+    "ownerName": "David Brown",
+    "email": "david@autocare.com",
+    "phone": "567-890-1234",
+    "status": "rejected",
+    "address": "654 Mechanic Blvd, County",
+    "registrationDate": "2024-03-19",
+    "description": "Auto repair and maintenance",
+    "documents": ["garage_license.pdf", "mechanic_cert.pdf"]
+  },
+  {
+    "id": 6,
+    "businessName": "Pet Paradise",
+    "ownerName": "Lisa Chen",
+    "email": "lisa@petparadise.com",
+    "phone": "678-901-2345",
+    "status": "pending",
+    "address": "987 Pet Lane, District",
+    "registrationDate": "2024-03-20",
+    "description": "Pet supplies and grooming services",
+    "documents": ["pet_store_license.pdf", "grooming_cert.pdf"]
+  },
+  {
+    "id": 7,
+    "businessName": "Book Haven",
+    "ownerName": "Tom Miller",
+    "email": "tom@bookhaven.com",
+    "phone": "789-012-3456",
+    "status": "pending",
+    "address": "246 Reading St, Borough",
+    "registrationDate": "2024-03-21",
+    "description": "Bookstore and reading cafe",
+    "documents": ["retail_license.pdf", "cafe_permit.pdf"]
+  },
+  {
+    "id": 8,
+    "businessName": "Style Studio",
+    "ownerName": "Anna Lee",
+    "email": "anna@stylestudio.com",
+    "phone": "890-123-4567",
+    "status": "pending",
+    "address": "135 Fashion Ave, Zone",
+    "registrationDate": "2024-03-22",
+    "description": "Hair salon and beauty spa",
+    "documents": ["salon_license.pdf", "cosmetology_cert.pdf"]
+  },
+  {
+    "id": 9,
+    "businessName": "Fresh Market",
+    "ownerName": "James Wilson",
+    "email": "james@freshmarket.com",
+    "phone": "901-234-5678",
+    "status": "rejected",
+    "address": "753 Market St, Area",
+    "registrationDate": "2024-03-23",
+    "description": "Local grocery and produce store",
+    "documents": ["market_license.pdf", "food_handler_cert.pdf"]
+  },
+  {
+    "id": 10,
+    "businessName": "Digital Solutions",
+    "ownerName": "Rachel Kim",
+    "email": "rachel@digitalsolutions.com",
+    "phone": "012-345-6789",
+    "status": "pending",
+    "address": "864 Tech Blvd, Region",
+    "registrationDate": "2024-03-24",
+    "description": "IT consulting and services",
+    "documents": ["business_reg.pdf", "tech_cert.pdf"]
+  }
+]

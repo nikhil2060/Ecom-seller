@@ -1,0 +1,142 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+  transition: filter 300ms;
+}
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #61dafbaa);
+}
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+
+/* PrimeReact DataTable Theme Overrides */
+.p-datatable {
+  background-color: var(--input-bg-color) !important;
+  color: var(--text-color) !important;
+}
+
+.p-datatable .p-datatable-header {
+  background-color: var(--input-bg-color) !important;
+  color: var(--text-color) !important;
+  border-color: var(--input-border-color) !important;
+}
+
+.p-datatable .p-datatable-thead > tr > th {
+  background-color: var(--input-bg-color) !important;
+  color: var(--text-color) !important;
+  border-color: var(--input-border-color) !important;
+  font-weight: 600 !important;
+}
+
+.p-datatable .p-datatable-tbody > tr {
+  background-color: var(--input-bg-color) !important;
+  color: var(--text-color) !important;
+  border-color: var(--input-border-color) !important;
+}
+
+.p-datatable .p-datatable-tbody > tr:hover {
+  background-color: var(--header-bg-color) !important;
+}
+
+.p-sortable-column:hover {
+  background-color: var(--header-bg-color) !important;
+}
+
+.p-sortable-column.p-highlight {
+  background-color: var(--header-bg-color) !important;
+  color: var(--text-color) !important;
+}
+
+/* PrimeReact Input Theme Overrides */
+.p-inputtext {
+  background-color: var(--input-bg-color) !important;
+  border-color: var(--input-border-color) !important;
+  color: var(--text-color) !important;
+}
+
+.p-inputtext:enabled:focus {
+  box-shadow: 0 0 0 2px var(--link-color) !important;
+  border-color: var(--link-color) !important;
+}
+
+/* PrimeReact Paginator Theme Overrides */
+.p-paginator {
+  background-color: var(--input-bg-color) !important;
+  border-color: var(--input-border-color) !important;
+}
+
+.p-paginator .p-paginator-page {
+  color: var(--text-color) !important;
+}
+
+.p-paginator .p-paginator-page.p-highlight {
+  background-color: var(--button-bg-color) !important;
+  color: var(--button-text-color) !important;
+}
+
+.p-paginator .p-paginator-page:not(.p-highlight):hover {
+  background-color: var(--header-bg-color) !important;
+}
+
+/* PrimeReact Filter Theme Overrides */
+.p-column-filter {
+  background-color: var(--input-bg-color) !important;
+  border-color: var(--input-border-color) !important;
+  color: var(--text-color) !important;
+}
+
+.p-column-filter:focus {
+  border-color: var(--link-color) !important;
+  box-shadow: 0 0 0 2px var(--link-color) !important;
+}
+
+/* Override dropdown panel backgrounds */
+.p-dropdown-panel,
+.p-multiselect-panel,
+.p-calendar-panel {
+  background-color: var(--input-bg-color) !important;
+  border-color: var(--input-border-color) !important;
+}
+
+/* Override dropdown items */
+.p-dropdown-items .p-dropdown-item,
+.p-multiselect-items .p-multiselect-item {
+  color: var(--text-color) !important;
+}
+
+.p-dropdown-items .p-dropdown-item:hover,
+.p-multiselect-items .p-multiselect-item:hover {
+  background-color: var(--header-bg-color) !important;
+}

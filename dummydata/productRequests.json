@@ -1,0 +1,112 @@
+[
+  {
+    "id": 3,
+    "productName": "Bluetooth Speaker",
+    "productImage": "/api/placeholder/100/100",
+    "sellerName": "Audio Hub",
+    "category": "Electronics",
+    "requestDate": "2024-03-17",
+    "status": "pending",
+    "price": 49.99,
+    "description": "Compact Bluetooth speaker with superior sound quality"
+  },
+  {
+    "id": 4,
+    "productName": "Fitness Band",
+    "productImage": "/api/placeholder/100/100",
+    "sellerName": "FitGear",
+    "category": "Wearables",
+    "requestDate": "2024-03-18",
+    "status": "pending",
+    "price": 79.99,
+    "description": "Lightweight fitness band with heart rate monitoring"
+  },
+  {
+    "id": 5,
+    "productName": "Gaming Mouse",
+    "productImage": "/api/placeholder/100/100",
+    "sellerName": "GameZone",
+    "category": "Gaming Accessories",
+    "requestDate": "2024-03-19",
+    "status": "rejected",
+    "price": 39.99,
+    "description": "High-precision gaming mouse with customizable buttons"
+  },
+  {
+    "id": 6,
+    "productName": "Wireless Keyboard",
+    "productImage": "/api/placeholder/100/100",
+    "sellerName": "Tech Store",
+    "category": "Electronics",
+    "requestDate": "2024-03-20",
+    "status": "pending",
+    "price": 59.99,
+    "description": "Ergonomic wireless keyboard with long battery life"
+  },
+  {
+    "id": 7,
+    "productName": "Smart Thermostat",
+    "productImage": "/api/placeholder/100/100",
+    "sellerName": "HomeTech",
+    "category": "Smart Home",
+    "requestDate": "2024-03-21",
+    "status": "pending",
+    "price": 149.99,
+    "description": "Energy-efficient smart thermostat with mobile app control"
+  },
+  {
+    "id": 8,
+    "productName": "Portable Charger",
+    "productImage": "/api/placeholder/100/100",
+    "sellerName": "PowerUp",
+    "category": "Accessories",
+    "requestDate": "2024-03-22",
+    "status": "pending",
+    "price": 29.99,
+    "description": "Fast-charging portable charger with multiple ports"
+  },
+  {
+    "id": 9,
+    "productName": "4K Action Camera",
+    "productImage": "/api/placeholder/100/100",
+    "sellerName": "AdventureGear",
+    "category": "Cameras",
+    "requestDate": "2024-03-23",
+    "status": "pending",
+    "price": 249.99,
+    "description": "Durable 4K action camera with waterproof casing"
+  },
+  {
+    "id": 10,
+    "productName": "Noise-Cancelling Headphones",
+    "productImage": "/api/placeholder/100/100",
+    "sellerName": "AudioHub",
+    "category": "Electronics",
+    "requestDate": "2024-03-24",
+    "status": "rejected",
+    "price": 129.99,
+    "description": "Over-ear headphones with active noise cancellation"
+  },
+  {
+    "id": 11,
+    "productName": "Electric Scooter",
+    "productImage": "/api/placeholder/100/100",
+    "sellerName": "EcoRide",
+    "category": "Transport",
+    "requestDate": "2024-03-25",
+    "status": "pending",
+    "price": 299.99,
+    "description": "Eco-friendly electric scooter with long battery range"
+  },
+  {
+    "id": 12,
+    "productName": "Smart Light Bulbs",
+    "productImage": "/api/placeholder/100/100",
+    "sellerName": "BrightHome",
+    "category": "Smart Home",
+    "requestDate": "2024-03-26",
+    "status": "pending",
+    "price": 24.99,
+    "description": "Color-changing smart light bulbs with app control"
+  }
+]
